@@ -35,11 +35,11 @@ Avances Logrados: En este avance de circuitos y programación, hemos logrado con
 ## Curso Python NetaCad
 |Modulo|Prueba|
 |--|--|
-|Modulo 1|<img width="500" height="250" src="Curso_Python_NetAcad/ExamModulo1.png" width="100"/>|
-|Modulo 2|<img width="500" height="250" src="Curso_Python_NetAcad/ExamModulo2.png" width="100"/>|
-|Modulo 3|<img width="500" height="250" src="Curso_Python_NetAcad/ExamModulo3.png" width="100"/>|
-|Modulo 4|<img width="500" height="250" src="Curso_Python_NetAcad/ExamModulo3.png" width="100"/>|
-|Modulo Final|<img width="500" height="250" src="Curso_Python_NetAcad/ExamFinal.png" width="100"/>|
+|Modulo 1|<img width="500" height="250" src="https://github.com/Jesus-Eduardo2004/pythonImg/blob/main/examen%20python1.png" width="100"/>|
+|Modulo 2|<img width="500" height="250" src="https://github.com/Jesus-Eduardo2004/pythonImg/blob/main/examen%20phyton%202.png" width="100"/>|
+|Modulo 3|<img width="500" height="250" src="https://github.com/Jesus-Eduardo2004/pythonImg/blob/main/examen%20phyton%203.png" width="100"/>|
+|Modulo 4|<img width="500" height="250" src="https://github.com/Jesus-Eduardo2004/pythonImg/blob/main/examen%20phyton%203.png" width="100"/>|
+|Modulo Final|<img width="500" height="250" src="https://github.com/Jesus-Eduardo2004/pythonImg/blob/main/examen%20python%20Final.png" width="100"/>|
 
 Los conocimientos adquiridos en mi curso de Python en NetaCad me permitirán configurar componentes para un muñeco usando MicroPython. Podre declarar variables para configurar entradas o pines conectados a distintos componentes que controlen el movimiento del muñeco. Ademas, programar los metodos 'instrucciones' y agregarlos a un ciclo infinito el cual me ayudara a que los componente se ejedcuten continuamente sin parar.
 
