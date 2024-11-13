@@ -19,7 +19,7 @@ Descripcion: En este ejercicio, se utilizó un potenciómetro para mostrar en un
 |Motor_Python|https://drive.google.com/file/d/1XD9D959qapjtrndSvD4tg8uoITUZJa7_/view?usp=drive_link|En este ejercicio se buscaba encender y hacer girar un motor con una esp3, en Thonny con Python|
 |Motor_Aurduino|https://drive.google.com/file/d/1zVPQLQ_Okk74SUrV7n35RspFEqqz8tK9/view?usp=drive_link|En este ejercicio se buscaba encender y hacer girar un motor con una esp3, en Arduino con C|
 |OledPotencimetro_Arduino|https://drive.google.com/file/d/1JreLoXyJkRMRUPkNHAzAP9zZGMK2uyRE/view?usp=drive_link|En este ejercicio se buscaba enceder y mostrar en el oled el porcentaje que marca el potencimetro con una esp3, en Arduino con C|
-|OledPotencimetro_Python|https://drive.google.com/file/d/12Kns2KpP7y6YAdoMnM_EFRsQDgevNspM/view?usp=drive_link|En este ejercicio se buscaba enceder y mostrar en el oled el porcentaje que marca el potencimetro con una esp3, en Thonny con Python|
+|OledPotencimetro_Python|https://drive.google.com/file/d/19TTrxl1Q0qGm22nHSCVXa-B57fX0j2r8/view?usp=sharing|En este ejercicio se buscaba enceder y mostrar en el oled el porcentaje que marca el potencimetro con una esp3, en Thonny con Python|
 |SensorLeds_Arduino|https://drive.google.com/file/d/1J-CdXtZTICzwYKyCdPfUOQs9BjWlw5JM/view?usp=drive_link|En este ejercicio se buscaba enceder 3 led dependiendo el acercamiento al sensor con una esp3, en Arduino con C|
 |SensorLeds_Python|https://drive.google.com/file/d/12J9h7q7idnEqNt_BegQR18kfuO9sc3Y8/view?usp=sharing|En este ejercicio se buscaba enceder 3 led dependiendo el acercamiento al sensor con una esp3, en Thonny con Python|
 
