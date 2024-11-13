@@ -13,16 +13,16 @@ Descripcion: En este ejercicio, se utilizó un potenciómetro para mostrar en un
 |BotonLed_Arduino|https://drive.google.com/file/d/1esXZOkuSg6dhZxRPw_NAsXT-bKNmiBhP/view?usp=drive_link|En este ejercicio se buscaba prender un led al dar clic a un boton con una esp3, en Arduino con C|
 |BotonLed_Python|https://drive.google.com/file/d/1W4DLEzPFOttdl3wV0Ty4XCekcn0I2Pmc/view?usp=drive_link|En este ejercicio se buscaba prender un led al dar clic a un boton con una esp3, en Thonny con Python|
 |Buzzer_Python|https://drive.google.com/file/d/1IUh0UKatk0cTCoHMiILEc9ZKn7_sxcBI/view?usp=drive_link|En este ejercicio se buscaba activar un buzzer dandole una tonada con una esp3, en Thonny con Python|
-|JoystickRgb_Arduino|https://drive.google.com/file/d/15nIewDEJMaxbJfVhzLw8dfk3uZnT34g2/view?usp=drive_link|En este ejercicio se buscaba encender un led rgb con los movimeintos de un joystick con una esp3, en Arduino con C|
-|JoystickRgb_Python|https://drive.google.com/file/d/13n45MUElupELxHqEOChcGjkQla8ArjXa/view?usp=drive_link|En este ejercicio se buscaba encender un led rgb con los movimeintos de un joystick con una esp3, en Thonny con Python|
-|MatrizLed_Python|https://drive.google.com/file/d/1Q_yl19ITOVoXl8j9bbNLm36k5o44UfjG/view?usp=drive_link|En este ejercicio se buscaba encender una matriz de lesd mostrando un mensaje con una esp3, en Thonny con Python|
-|MatrizLedsSensor_Python|https://drive.google.com/file/d/1-pqF15vcXiVIBHd0okTFpO5soZ1zXKkj/view?usp=drive_link|En este ejercicio se buscaba encender una matriz de lesd mostrando la distancia de un objeto que toma un ultrasonic sensor con una esp3, en Thonny con Python|
+|JoystickRgb_Arduino|https://drive.google.com/file/d/12ECoSJNXL8Twa3hRF3rKnzwL2oDJz78B/view?usp=sharing|En este ejercicio se buscaba encender un led rgb con los movimeintos de un joystick con una esp3, en Arduino con C|
+|JoystickRgb_Python|https://drive.google.com/file/d/12NCIvfFpbTAubHgepSbpJz9zEPiOm0jR/view?usp=sharing|En este ejercicio se buscaba encender un led rgb con los movimeintos de un joystick con una esp3, en Thonny con Python|
+|MatrizLed_Python|https://drive.google.com/file/d/126QjwJCmNZaVPlLS-v0jbjsGlDo1oD5Q/view?usp=sharing|En este ejercicio se buscaba encender una matriz de lesd mostrando un mensaje con una esp3, en Thonny con Python|
+|MatrizLedsSensor_Python|https://drive.google.com/file/d/12MvmgXtb71cFVCQsqtAutMd0b0rdheTG/view?usp=sharing|En este ejercicio se buscaba encender una matriz de lesd mostrando la distancia de un objeto que toma un ultrasonic sensor con una esp3, en Thonny con Python|
 |Motor_Python|https://drive.google.com/file/d/1XD9D959qapjtrndSvD4tg8uoITUZJa7_/view?usp=drive_link|En este ejercicio se buscaba encender y hacer girar un motor con una esp3, en Thonny con Python|
 |Motor_Aurduino|https://drive.google.com/file/d/1zVPQLQ_Okk74SUrV7n35RspFEqqz8tK9/view?usp=drive_link|En este ejercicio se buscaba encender y hacer girar un motor con una esp3, en Arduino con C|
 |OledPotencimetro_Arduino|https://drive.google.com/file/d/1JreLoXyJkRMRUPkNHAzAP9zZGMK2uyRE/view?usp=drive_link|En este ejercicio se buscaba enceder y mostrar en el oled el porcentaje que marca el potencimetro con una esp3, en Arduino con C|
 |OledPotencimetro_Python|https://drive.google.com/file/d/12Kns2KpP7y6YAdoMnM_EFRsQDgevNspM/view?usp=drive_link|En este ejercicio se buscaba enceder y mostrar en el oled el porcentaje que marca el potencimetro con una esp3, en Thonny con Python|
 |SensorLeds_Arduino|https://drive.google.com/file/d/1J-CdXtZTICzwYKyCdPfUOQs9BjWlw5JM/view?usp=drive_link|En este ejercicio se buscaba enceder 3 led dependiendo el acercamiento al sensor con una esp3, en Arduino con C|
-|SensorLeds_Python|https://drive.google.com/file/d/15cFuRU514qZ9lqh1Te6e0j-uaAoRs6C9/view?usp=drive_link|En este ejercicio se buscaba enceder 3 led dependiendo el acercamiento al sensor con una esp3, en Thonny con Python|
+|SensorLeds_Python|https://drive.google.com/file/d/12J9h7q7idnEqNt_BegQR18kfuO9sc3Y8/view?usp=sharing|En este ejercicio se buscaba enceder 3 led dependiendo el acercamiento al sensor con una esp3, en Thonny con Python|
 
 
 ## Avance Muñeco Navideño
