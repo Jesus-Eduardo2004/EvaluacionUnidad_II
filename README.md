@@ -11,8 +11,8 @@ Descripcion: En este ejercicio, se utilizó un potenciómetro para mostrar en un
 |Ejercicio|Video|Descripción|
 |--|--|--|
 |BotonLed_Arduino|https://drive.google.com/file/d/1esXZOkuSg6dhZxRPw_NAsXT-bKNmiBhP/view?usp=drive_link|En este ejercicio se buscaba prender un led al dar clic a un boton con una esp3, en Arduino con C|
-|BotonLed_Python|https://drive.google.com/file/d/1W4DLEzPFOttdl3wV0Ty4XCekcn0I2Pmc/view?usp=drive_link|En este ejercicio se buscaba prender un led al dar clic a un boton con una esp3, en Thonny con Python|
-|Buzzer_Python|https://drive.google.com/file/d/1IUh0UKatk0cTCoHMiILEc9ZKn7_sxcBI/view?usp=drive_link|En este ejercicio se buscaba activar un buzzer dandole una tonada con una esp3, en Thonny con Python|
+|BotonLed_Python|https://drive.google.com/file/d/12QqCySncNo0qoMZ4wcDV9BeJprYp-V7p/view?usp=drive_link - https://drive.google.com/file/d/19S8nkYGEQCYUkAMz9ljZCbYxFNO8SP6F/view?usp=drive_link|En este ejercicio se buscaba prender un led al dar clic a un boton con una esp3, en Thonny con Python|
+|Buzzer_Arduino|https://drive.google.com/file/d/18vjLnMsc-rGorIrYpB_SCoG8Ls764yc4/view?usp=sharing|En este ejercicio se buscaba activar un buzzer dandole una tonada con una esp3, en Thonny con Python|
 |JoystickRgb_Arduino|https://drive.google.com/file/d/12ECoSJNXL8Twa3hRF3rKnzwL2oDJz78B/view?usp=sharing|En este ejercicio se buscaba encender un led rgb con los movimeintos de un joystick con una esp3, en Arduino con C|
 |JoystickRgb_Python|https://drive.google.com/file/d/12NCIvfFpbTAubHgepSbpJz9zEPiOm0jR/view?usp=sharing|En este ejercicio se buscaba encender un led rgb con los movimeintos de un joystick con una esp3, en Thonny con Python|
 |MatrizLed_Python|https://drive.google.com/file/d/126QjwJCmNZaVPlLS-v0jbjsGlDo1oD5Q/view?usp=sharing|En este ejercicio se buscaba encender una matriz de lesd mostrando un mensaje con una esp3, en Thonny con Python|
